@@ -1,4 +1,40 @@
 body{
+    background-image:url('../img/cover.jpg') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h2{
+    background: linear-gradient(to left, whitesmoke, purple);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+p{
+    background: linear-gradient(to right, whitesmoke, purple);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
     background-color: rgb(10, 8, 8);
 }
 h2{
@@ -18,4 +54,4 @@ p{
     padding: 20px;
     margin-left: none;
     margin: 10px;
-}
+} */
