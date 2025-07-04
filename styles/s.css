@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(10, 8, 8);
+}
+h2{
+    color: white;
+    border-top: dotted ;
+    border-bottom: dotted;
+    border-left-width: 10px;
+    border-left-style: double;
+}
+
+p{
+    color:whitesmoke;
+    border-style: solid ;
+    border-color: gold;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-left: none;
+    margin: 10px;
+}
